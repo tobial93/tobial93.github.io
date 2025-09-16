@@ -1,12 +1,16 @@
-# Data Scientist
+# Data Analyst
 
 ### Education
-Physics, PhD
+Economics, M.Sc.
 
 ### Work Experience
-Data Scientist @ Toyota Financial Services
+Analytics Engineer @ Mylantech GmbH
+- big impact projetct 1!
+-  big impact project 2!
+
+Trainee Business Analytics @ DKB AG
 - big impact projetct 1!
 -  big impact project 2!
 
 ### Projects
-EEG Band Discovery
+Hier kommt etwas privates rein :)
