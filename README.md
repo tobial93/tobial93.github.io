@@ -2,8 +2,8 @@
 #### Technical Skills: Python · SQL · Azure · Power BI · Databricks ·
 
 ### Education
-- M.S., Economics, (June 2022)
-- B.S., International Business, (April 2018)
+- **M.S., Economics** - Freie Universität Berlin *(June 2022)*
+- **B.S., International Business** - Hochschule Schmalkalden *(April 2018)*
 
 ### Work Experience
 Analytics Engineer @ Mylantech GmbH
