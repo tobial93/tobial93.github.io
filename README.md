@@ -1,7 +1,7 @@
 # Data Analyst
-#### Technical Skills: Python · SQL · Azure · Power BI · Databricks ·
+#### Technical Skills: Python · SQL · Azure · Power BI · Databricks
 
-### Education
+## Education
 
  <ul style="list-style-type: disc; padding-left: 20px;">
   <li style="margin-bottom: 15px;">
@@ -11,11 +11,6 @@
   <li style="margin-bottom: 15px;">
     <strong>B.S., International Business</strong> &nbsp;&nbsp; Hochschule Schmalkalden <em>(April 2018)</em>
   </li>
-  <hr>
-  <li style="margin-bottom: 15px;">
-    <strong>B.S., Physics</strong> &nbsp;&nbsp; The University of Texas at Dallas <em>(May 2017)</em>
-  </li>
-</ul>
 
 ### Work Experience
 Analytics Engineer @ Mylantech GmbH
