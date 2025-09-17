@@ -14,7 +14,7 @@
   <hr>
   <li style="margin-bottom: 15px;">
 
-### Work Experience
+## Work Experience
 Analytics Engineer @ Mylantech GmbH
 - big impact projetct 1!
 -  big impact project 2!
