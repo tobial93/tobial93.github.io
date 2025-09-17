@@ -13,6 +13,7 @@
   </li>
   <hr>
   <li style="margin-bottom: 15px;">
+</ul>
 
 ## Work Experience
 Analytics Engineer @ Mylantech GmbH
