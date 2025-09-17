@@ -11,6 +11,8 @@
   <li style="margin-bottom: 15px;">
     <strong>B.S., International Business</strong> &nbsp;&nbsp; Hochschule Schmalkalden <em>(April 2018)</em>
   </li>
+  <hr>
+  <li style="margin-bottom: 15px;">
 
 ### Work Experience
 Analytics Engineer @ Mylantech GmbH
