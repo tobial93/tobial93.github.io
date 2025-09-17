@@ -1,4 +1,6 @@
 # Data Analyst
+## Technical Skills  
+Python · SQL · AWS · Snowflake · MATLAB ·
 
 ### Education
 Economics, M.Sc.
