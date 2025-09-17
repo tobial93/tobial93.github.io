@@ -1,8 +1,9 @@
 # Data Analyst
-#### Technical Skills: Python · SQL · AWS · Snowflake · MATLAB ·
+#### Technical Skills: Python · SQL · Azure · Power BI · Databricks ·
 
 ### Education
-Economics, M.Sc.
+- M.S., Economics, (June 2022)
+- B.S., International Business, (April 2018)
 
 ### Work Experience
 Analytics Engineer @ Mylantech GmbH
