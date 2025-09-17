@@ -2,16 +2,14 @@
 #### Technical Skills: Python · SQL · Azure · Power BI · Databricks ·
 
 ### Education
-- **M.S., Economics** - Freie Universität Berlin *(June 2022)*
-- **B.S., International Business** - Hochschule Schmalkalden *(April 2018)*
 
-- <ul style="list-style-type: disc; padding-left: 20px;">
+ <ul style="list-style-type: disc; padding-left: 20px;">
   <li style="margin-bottom: 15px;">
-    <strong>Ph.D., Physics</strong> &nbsp;&nbsp; The University of Texas at Dallas <em>(May 2022)</em>
+    <strong>M.S., Economics</strong> &nbsp;&nbsp; Freie Universität Berlin <em>(June 2022)</em>
   </li>
   <hr>
   <li style="margin-bottom: 15px;">
-    <strong>M.S., Physics</strong> &nbsp;&nbsp; The University of Texas at Dallas <em>(December 2019)</em>
+    <strong>B.S., International Business</strong> &nbsp;&nbsp; Hochschule Schmalkalden <em>(April 2018)</em>
   </li>
   <hr>
   <li style="margin-bottom: 15px;">
