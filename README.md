@@ -13,7 +13,6 @@
   <li style="margin-bottom: 12px;">
     <strong>B.S., International Business</strong> &nbsp;&nbsp; Hochschule Schmalkalden <em>(April 2018)</em>
   </li>
-</ul>
 
 <hr>
 
