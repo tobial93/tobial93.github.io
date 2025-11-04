@@ -16,15 +16,15 @@
 </ul>
 
 ## Work Experience
-**Data Engineer @ unitB (_Oktober 2025 - Present_)**
+### Data Engineer @ unitB *(_Oktober 2025 - Present_)*
 - Created Logging Report for Data Platform to uncover Performance Issues or Loading Problems for a German Bank
 
-**Analytics Engineer @ Mylantech GmbH (_April 2024 - September 2025_)**
+### Analytics Engineer @ Mylantech GmbH *(_April 2024 - September 2025_)*
 - Development of scalable data architectures in Azure --> better Performance & Maintainability
 - Automation of ETL Processes --> 50 % Time Savings in Data Integration
 - Creation of Interactive Power BI Dashboards --> Benefit-Oriented Reporting for Stakeholders
 
-**Trainee Business Analytics @ DKB AG (_Oktober 2023 - March 2024_)**
+### Trainee Business Analytics @ DKB AG *(_Oktober 2023 - March 2024_)*
 - Collaboration in a data-driven fraud detection project with a focus on automated tests, data quality and analysis.
 
 ### Projects
