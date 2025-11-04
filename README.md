@@ -1,5 +1,5 @@
 # Data Analyst
-#### Technical Skills: Python · SQL · Azure · Power BI · Databricks
+#### Technical Skills: Python · SQL · Azure · Power BI · Databricks · Terraform · Airflow
 
 ## Education
 
@@ -16,13 +16,16 @@
 </ul>
 
 ## Work Experience
-Analytics Engineer @ Mylantech GmbH
-- big impact projetct 1!
--  big impact project 2!
+Data Engineer @ unitB (Oktober 2025 - Present)
+- Created Logging Report for Data Platform to uncover Performance Issues or Loading Problems for a German Bank
+
+Analytics Engineer @ Mylantech GmbH (April 2024 - September 2025)
+- Development of scalable data architectures in Azure --> better Performance & Maintainability
+- Automation of ETL Processes --> 50 % Time Savings in Data Integration
+- Creation of Interactive Power BI Dashboards --> Benefit-Oriented Reporting for Stakeholders
 
 Trainee Business Analytics @ DKB AG
-- big impact projetct 1!
--  big impact project 2!
+- Collaboration in a data-driven fraud detection project with a focus on automated tests, data quality and analysis.
 
 ### Projects
 Hier kommt etwas privates rein :)
