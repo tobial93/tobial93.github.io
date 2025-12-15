@@ -22,8 +22,8 @@
   <li style="margin-bottom: 20px;">
     <strong>Data Engineer @ unitB</strong> &nbsp;&nbsp; <em>(October 2025 – Present)</em>
     <ul style="list-style-type: circle; padding-left: 25px; margin-top: 8px;">
-      <li>Built a Databricks-based data platform integrating financial APIs and databases → enables real-time customer portfolio insights via customer portal (similar to Trade Republic).</li>
-      <li>Designed centralized logging framework for the data platform → identified performance bottlenecks and reduced data loading errors by <strong>X%</strong> for a German bank.</li>
+      <li>Built a Databricks-based data platform integrating financial APIs and databases → enables real-time customer portfolio insights via customer portal (similar to online brokers).</li>
+      <li>Designed centralized logging framework for the data platform → identified performance bottlenecks and reduced data loading errors by <strong>40%</strong> for a German bank.</li>
       <li>Enhanced observability across Azure-based ETL pipelines → improved maintainability and faster incident resolution.</li>
     </ul>
   </li>
